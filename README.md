@@ -15,7 +15,7 @@
 
 - 📝 I regularly create tutorial on [YouTube](https://www.youtube.com/channel/UCHAXo7AdP6rAJkm8A8NDDeA)
 
-- 📝 I regularly write articles on [Instagram Feed](https://instagram.com/edhi.uchiha) and [Medium](https://medium.com/edhimurwanto)
+- 📝 I regularly write articles on [Instagram Feed](https://instagram.com/edhi.uchiha) and [Medium](https://edhimurwanto.medium.com/)
 
 - 💬 Ask me about **React, React Native, Spring, etc**
 
