@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/edhimurwanto)
 
-- 📝 I regularly create tutorial on [YouTube](https://www.youtube.com/channel/UCHAXo7AdP6rAJkm8A8NDDeA)
+- 🎬 I regularly create tutorial on [YouTube](https://www.youtube.com/channel/UCHAXo7AdP6rAJkm8A8NDDeA)
 
 - 📝 I regularly write articles on [Instagram Feed](https://instagram.com/edhi.uchiha) and [Medium](https://edhimurwanto.medium.com/)
 
