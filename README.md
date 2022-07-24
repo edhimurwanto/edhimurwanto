@@ -47,7 +47,7 @@
 <a href="https://twitter.com/edhimurwanto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edhimurwanto_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edhimurwanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edhimurwanto" height="30" width="40" /></a>
 <a href="https://instagram.com/edhimurwanto_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edhimurwanto_" height="30" width="40" /></a>
-<a href="https://medium.com/edhimurwanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@edhimurwanto" height="30" width="40" /></a>
+<a href="https://edhimurwanto.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://edhimurwanto.medium.com/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/edi murwanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edi murwanto" height="30" width="40" /></a>
 </p>
 
