@@ -5,7 +5,7 @@
 
 ##  🥷🏻 About Me
 
-- 🔭  I’m currently working on  [IEA - Production Cost Calculator](http://www.iea.agricultura.sp.gov.br/)
+- 🔭  I’m currently working on  [GitHub Profile Generator](https://edhimurwanto.github.io/github-profile-generator/)
 
 - 👯  I’m looking to collaborate on  [YouTube](https://www.youtube.com/channel/UCHAXo7AdP6rAJkm8A8NDDeA)
 
