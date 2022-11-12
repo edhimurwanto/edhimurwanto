@@ -46,3 +46,8 @@
 
 ### Note :
 Just give a start or follow my profile, and every public repositories is free to clone 😃
+
+# Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
