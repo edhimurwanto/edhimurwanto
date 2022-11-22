@@ -49,6 +49,7 @@ Just give a start or follow my profile, and every public repositories is free to
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Usia 20-an wajib paham beberapa hal ini!](https://edimurwanto.blogspot.com/2022/11/usia-20-wajib-paham-beberapa-hal-ini.html)
 - [Cara memulai belajar pemrograman di tahun 2023](https://edimurwanto.blogspot.com/2022/11/cara-memulai-belajar-pemrograman.html)
 - [Iterator di Java](https://edimurwanto.blogspot.com/2019/02/iterator-di-java.html)
 - [React JS #chapter 1 &quot;Definition and About React&quot;](https://edimurwanto.blogspot.com/2019/01/react-js-chapter-1.html)
@@ -58,6 +59,5 @@ Just give a start or follow my profile, and every public repositories is free to
 - [Pengertian Component pada Angular](https://edimurwanto.blogspot.com/2018/12/pengertian-component-pada-angular.html)
 - [ANGULAR I|| First Project on Angular](https://edimurwanto.blogspot.com/2018/12/angular-i-first-project-on-angular.html)
 - [jQuery Introduction](https://edimurwanto.blogspot.com/2018/12/jquery-introduction.html)
-- [Back-Up Database pada SQL Server 2000](https://edimurwanto.blogspot.com/2017/06/back-up-database-pada-sql-server-2000.html)
 <!-- BLOG-POST-LIST:END -->
 
