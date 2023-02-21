@@ -49,6 +49,7 @@ Just give a start or follow my profile, and every public repositories is free to
 
 # Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Bagaimana saya mendapatkan pekerjaan sebagai programmer di level internasional.](https://edimurwanto.blogspot.com/2023/02/bagaimana-saya-mendapatkan-pekerjaan.html)
 - [Memahami makna kehidupan agar tidak insecure!](https://edimurwanto.blogspot.com/2023/01/memahami-makna-kehidupan-agar-tidak-insecure.html)
 - [Usia 20-an wajib paham beberapa hal ini!](https://edimurwanto.blogspot.com/2022/11/usia-20-wajib-paham-beberapa-hal-ini.html)
 - [Cara memulai belajar pemrograman di tahun 2023](https://edimurwanto.blogspot.com/2022/11/cara-memulai-belajar-pemrograman.html)
@@ -58,6 +59,5 @@ Just give a start or follow my profile, and every public repositories is free to
 - [Membuat Project Baru Angular](https://edimurwanto.blogspot.com/2018/12/membuat-project-baru-angular.html)
 - [Angular 7 - Reactive Forms Validation Example](https://edimurwanto.blogspot.com/2018/12/angular-7-reactive-forms-validation.html)
 - [Pengertian Component pada Angular](https://edimurwanto.blogspot.com/2018/12/pengertian-component-pada-angular.html)
-- [ANGULAR I|| First Project on Angular](https://edimurwanto.blogspot.com/2018/12/angular-i-first-project-on-angular.html)
 <!-- BLOG-POST-LIST:END -->
 
