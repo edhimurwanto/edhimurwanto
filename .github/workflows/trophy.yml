@@ -1,18 +1,17 @@
 name: Update GitHub Profile Trophy
 
 on:
-  # Allow manual execution from the Actions tab
   workflow_dispatch:
 
-  # Update once a week
   schedule:
+    # Every Sunday at 00:17 UTC
     - cron: "17 0 * * 0"
 
 permissions:
   contents: write
 
 concurrency:
-  group: profile-trophy
+  group: github-profile-trophy
   cancel-in-progress: true
 
 jobs:
@@ -22,18 +21,38 @@ jobs:
 
     steps:
       - name: Checkout profile repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
+        uses: actions/checkout@v5
 
-      - name: Generate GitHub Profile Trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
         with:
-          username: edhimurwanto
-          output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          deno-version: v2.x
 
-      - name: Commit updated trophy
+      - name: Clone GitHub Profile Trophy
+        run: |
+          git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git .github-profile-trophy
+
+      - name: Generate trophy.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd .github-profile-trophy
+
+          deno run \
+            --allow-net \
+            --allow-env \
+            --allow-read \
+            --allow-write \
+            ./render_svg.ts \
+            edhimurwanto \
+            ../trophy.svg \
+            flat
+
+      - name: Remove generator
+        run: |
+          rm -rf .github-profile-trophy
+
+      - name: Commit trophy.svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -41,7 +60,7 @@ jobs:
           git add trophy.svg
 
           if git diff --cached --quiet; then
-            echo "No trophy changes detected."
+            echo "No changes to trophy.svg"
             exit 0
           fi
 
