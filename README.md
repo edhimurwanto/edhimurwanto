@@ -24,14 +24,15 @@
 
 ---
 
-### Featured Projects
+### Featured & Community Projects
 
-| Repository | Description | Stack |
-| :--- | :--- | :--- |
-| [multiple-service-with-centralize-auth](https://github.com/edhimurwanto/multiple-service-with-centralize-auth) | Microservices architecture example with centralized authentication across multiple services | `Java` `Spring Boot` |
-| [springboot-x-sap-hana](https://github.com/edhimurwanto/springboot-x-sap-hana) | Enterprise REST API built with Spring Boot and SAP HANA database integration | `Java` `Spring Boot` `SAP HANA` |
-| [music-app](https://github.com/edhimurwanto/music-app) | Music catalog & streaming REST API service built with Spring Boot | `Java` `Spring Boot` |
-| [nest-user-api](https://github.com/edhimurwanto/nest-user-api) | Modular user management backend REST API built with NestJS | `TypeScript` `NestJS` |
+| Project | Impact & Scope | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Sistem Petugas Jum'at** *(Volunteer)* | Automated Friday prayer officer scheduling & rotation web app for Masjid Al-Huda Gunung Batu | `React` `Vite` `Vercel` | [Live App](https://sistem-petugas-jumat.vercel.app/) |
+| **multiple-service-with-centralize-auth** | Microservices architecture with centralized authentication across multiple services | `Java` `Spring Boot` | [GitHub](https://github.com/edhimurwanto/multiple-service-with-centralize-auth) |
+| **springboot-x-sap-hana** | Enterprise REST API built with Spring Boot and SAP HANA integration | `Java` `Spring Boot` | [GitHub](https://github.com/edhimurwanto/springboot-x-sap-hana) |
+| **music-app** | Music catalog & streaming REST API service with layered architecture | `Java` `Spring Boot` | [GitHub](https://github.com/edhimurwanto/music-app) |
+| **nest-user-api** | Modular user management REST API with DTO validation | `TypeScript` `NestJS` | [GitHub](https://github.com/edhimurwanto/nest-user-api) |
 
 ---
 
