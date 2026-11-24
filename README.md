@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Edi Murwanto</h1>
-  <p><strong>Software Engineer</strong> · Jakarta, Indonesia</p>
-  <p>
-    Building scalable backend services, microservices architectures, and cross-platform web & mobile applications.
-  </p>
+  <p><strong>Full-Stack Software Engineer · Building Scalable & AI-Powered Products</strong></p>
+  <p>TypeScript · Java (Spring Boot) · React · LLM Workflows</p>
   <p>
     <a href="https://www.linkedin.com/in/edhimurwanto/">LinkedIn</a> ·
     <a href="https://www.youtube.com/channel/UCHAXo7AdP6rAJkm8A8NDDeA">YouTube</a> ·
@@ -17,11 +15,11 @@
 
 ### About Me
 
-- **Role Focus:** Software Engineer specializing in **Java (Spring Boot)**, **TypeScript (NestJS, React)**, and mobile development (**React Native / Kotlin**).
-- **Currently Exploring:** Distributed services, centralized authentication patterns, and clean OpenAPI-driven workflows.
-- **Content & Sharing:** Sharing programming tutorials and career notes on [YouTube](https://www.youtube.com/channel/UCHAXo7AdP6rAJkm8A8NDDeA) and [Medium](https://edhimurwanto.medium.com/).
-- **Outside of Code:** Enjoying traditional Islamic music (*Hadrah*).
-
+- **What I Build:** End-to-end web and backend systems—combining reliable **Java / NestJS APIs** and **React / Mobile frontends** with modern **AI capabilities** (tool calling, workflow automation, and intelligent search).
+- **Currently Exploring:** Agentic backend architectures, **Spring AI / TypeScript LLM gateways**, and latency/cost guardrails for production AI services.
+- **Shipping Real Impact:** Beyond enterprise services, I build and deploy live community apps (such as an automated scheduling portal for a local mosque).
+- **Content & Community:** Teaching practical programming on [YouTube](https://www.youtube.com/channel/UCHAXo7AdP6rAJkm8A8NDDeA) and writing career/engineering notes on [Medium](https://edhimurwanto.medium.com/).
+- **Fun Fact:** Software Engineer by day, *Hadrah* (traditional Islamic music) enthusiast outside of work.
 ---
 
 ### Featured & Community Projects
