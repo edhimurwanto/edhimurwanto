@@ -50,9 +50,16 @@
 ### Selected Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Bagaimana saya mendapatkan pekerjaan sebagai programmer di level internasional](https://edimurwanto.blogspot.com/2023/02/bagaimana-saya-mendapatkan-pekerjaan.html)
-- [Algoritma bilangan ganjil & genap dalam Java dan JavaScript](https://edimurwanto.blogspot.com/2023/03/blog-post.html)
-- [Konsep Dasar Object Oriented Programming (OOP)](https://edimurwanto.blogspot.com/2019/01/konsep-dasar-object-oriented.html)
+- [Algoritma untuk menentukan bilangan ganjil dan genap serta contohnya dalam bahasa pemrograman java dan javascript.](https://edimurwanto.blogspot.com/2023/03/blog-post.html)
+- [Bagaimana saya mendapatkan pekerjaan sebagai programmer di level internasional.](https://edimurwanto.blogspot.com/2023/02/bagaimana-saya-mendapatkan-pekerjaan.html)
+- [Memahami makna kehidupan agar tidak insecure!](https://edimurwanto.blogspot.com/2023/01/memahami-makna-kehidupan-agar-tidak-insecure.html)
+- [Usia 20-an wajib paham beberapa hal ini!](https://edimurwanto.blogspot.com/2022/11/usia-20-wajib-paham-beberapa-hal-ini.html)
+- [Cara memulai belajar pemrograman di tahun 2023](https://edimurwanto.blogspot.com/2022/11/cara-memulai-belajar-pemrograman.html)
+- [Iterator di Java](https://edimurwanto.blogspot.com/2019/02/iterator-di-java.html)
+- [React JS #chapter 1 &quot;Definition and About React&quot;](https://edimurwanto.blogspot.com/2019/01/react-js-chapter-1.html)
+- [Konsep Dasar Object Oriented Programming &lpar;OOP&rpar;](https://edimurwanto.blogspot.com/2019/01/konsep-dasar-object-oriented.html)
+- [Membuat Project Baru Angular](https://edimurwanto.blogspot.com/2018/12/membuat-project-baru-angular.html)
+- [Angular 7 - Reactive Forms Validation Example](https://edimurwanto.blogspot.com/2018/12/angular-7-reactive-forms-validation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
